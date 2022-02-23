@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Radu_Nicolae/Facultate/an2/sem1/Programare orientata pe obiecte/Lab/Proiect1/WaterDelivery.cpp
+WaterDelivery.h
+E:/Radu_Nicolae/Facultate/an2/sem1/Programare orientata pe obiecte/Lab/Proiect1/WaterDelivery.h
+
+E:/Radu_Nicolae/Facultate/an2/sem1/Programare orientata pe obiecte/Lab/Proiect1/WaterDelivery.h
+iostream
+-
+
+E:/Radu_Nicolae/Facultate/an2/sem1/Programare orientata pe obiecte/Lab/Proiect1/main.cpp
+iostream
+-
+WaterDelivery.h
+E:/Radu_Nicolae/Facultate/an2/sem1/Programare orientata pe obiecte/Lab/Proiect1/WaterDelivery.h
+
